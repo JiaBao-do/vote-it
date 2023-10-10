@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670154553709",
+    "project_id": "voteit-project",
+    "storage_bucket": "voteit-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670154553709:android:6f47c7fd9b0d784e45c264",
+        "android_client_info": {
+          "package_name": "com.dotech.voteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670154553709-le83u3qtao5nqv7tm6jri7j8o6a4lpf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNEPevDiFQbWZ4_vIiindoPjLTOpEWfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670154553709-le83u3qtao5nqv7tm6jri7j8o6a4lpf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
